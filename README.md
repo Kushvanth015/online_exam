@@ -3,18 +3,24 @@
 # My Project
 
 Home Page:
+![Screenshot (42)](https://github.com/user-attachments/assets/18e9b650-d3be-4931-a509-1e46a0d9a375)
 
-![Example Image](https://github.com/Kushvanth015/online_exam/blob/main/Screenshot%20(42).png)
 
 Registration Page
-![Example Image](https://github.com/Kushvanth015/online_exam/blob/main/Screenshot%20(43).png)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/760316d3-9d82-4d89-88b0-e9655bf50259)
 
 Login Page
-![Example Image](https://github.com/Kushvanth015/online_exam/blob/main/Screenshot%20(44).png)
+
+![Screenshot (44)](https://github.com/user-attachments/assets/6115e125-4585-4d92-8c5a-feac08ed2a8a)
+
 
 Exam Page
-![Example Image](https://github.com/Kushvanth015/online_exam/blob/main/Screenshot%20(45).png)
+
+![Screenshot (45)](https://github.com/user-attachments/assets/8e2ef0c3-29fb-42e4-9c40-1f8e4c94d9d0)
+
 
 Result Page
-![Example Image](https://github.com/Kushvanth015/online_exam/blob/main/Screenshot%20(46).png)
 
+
+![Screenshot (46)](https://github.com/user-attachments/assets/dce0b94c-f647-4296-b874-f8bc982fce9e)
